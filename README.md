@@ -23,6 +23,6 @@ Je suis également ouvert a toute sorte de proposition de formation sur le web d
 
 ```javascript
 function test() {
-consol.log("Faut toujour essayer un truc nouveau");
+consol.log("Faut toujours essayer un truc nouveau");
 }
 ```
