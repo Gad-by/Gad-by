@@ -1,28 +1,37 @@
-# Enfin j'y suis ! :satisfied:
-## c'est une sacrée étape franchie pour une premiere journée en apprentissage du codage 
+[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)]
+<h1 align="center">Hi 👋, I'm Gad Byaseghere</h1>
+<h3 align="center">A passionate frontend developer from Goma</h3>
 
-Au fait je m'appel **Gad**, je vis á **Goma** et *j'adores jouer avec mon ordi en apprenant du lourd sur le code sur internet*
-<p align="right">
-  <img align="right" width="30%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS68ipJXJ9C0b30qKVF11BDbo3d1cfJmbKbhw&usqp=CAU" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gad-by&label=Profile%20views&color=0e75b6&style=flat" alt="gad-by" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gad-by" alt="gad-by" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/gad_byaseghere" target="blank"><img src="https://img.shields.io/twitter/follow/gad_byaseghere?logo=twitter&style=for-the-badge" alt="gad_byaseghere" /></a> </p>
+
+- 🔭 I’m currently working on **Private website**
+
+- 🌱 I’m currently learning **React, SQL.**
+
+- 📝 I regularly write articles on [https://gadby.hashnode.dev](https://gadby.hashnode.dev)
+
+- 💬 Ask me about **WEB developpement**
+
+- 📫 How to reach me **gadkambale90@gmail.com**
+
+- ⚡ Fun fact **I'm funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/gad_byaseghere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gad_byaseghere" height="30" width="40" /></a>
+<a href="https://fb.com/gad byaseghere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gad byaseghere" height="30" width="40" /></a>
+<a href="https://hashnode.com/gad byaseghere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="gad byaseghere" height="30" width="40" /></a>
 </p>
 
-J'ai toujours voulu etre capable de manipuler un ordinateur d'une maniere hors du commun :muscle:. Alors comme je suis ouvert á la formation sur tout ce qui concerne le codage anfin de d'etre eligible sur beaucoup d'opportunités sur le web.
-  
-### En fait j'adores :kissing_heart: m'amuser 
- <p align="center">
-   <img align="center" width="20%" src="https://media.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-Je suis également ouvert a toute sorte de proposition de formation sur le web developpement pour mieux perfectionner mon apprentissage. Je suis disponible sur tous les réseaux sociaux sous le pseudo **Gad Byaseghere** 
-<p align="center">
-  <img align="center" width="5%" src="https://pic.clubic.com/v1/images/1504188/raw" />
-  <img align="center" width="5%" src="https://play-lh.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk" />
-  <img align="center" width="5%" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
-  <img align="center" width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gad-by&show_icons=true&locale=en&layout=compact" alt="gad-by" /></p>
 
-```javascript
-function test() {
-consol.log("Faut toujours essayer un truc nouveau");
-}
-```
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gad-by&show_icons=true&locale=en" alt="gad-by" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gad-by&" alt="gad-by" /></p>
