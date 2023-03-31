@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif)]
+![MasterHead](https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif)
 <h1 align="center">Hi 👋, I'm Gad Byaseghere</h1>
 <h3 align="center">A passionate frontend developer from Goma</h3>
 
